@@ -32,7 +32,6 @@ body {
   padding: 15px;
   border-radius: 15px;
   margin: auto;
-  box-shadow: 0px 5px 11px 1px var(--grayish-blue);
 }
 img {
   border-radius: 10px;
@@ -47,6 +46,7 @@ img {
 .detail span {
   font-weight: var(--font-bold);
   font-size: 1.5rem;
+  color: var(--dark-blue);
 }
 .detail p {
   margin-top: 20px;
