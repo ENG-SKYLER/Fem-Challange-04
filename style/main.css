@@ -40,7 +40,7 @@ img {
 }
 .detail {
   font-family: var(--font-family);
-  padding: 30px;
+  padding: 20px;
   text-align: center;
 }
 .detail span {
@@ -59,7 +59,7 @@ img {
   }
   .detail span {
     font-weight: var(--font-bold);
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
   .detail p {
     font-size: var(--paragraph-font-size);
